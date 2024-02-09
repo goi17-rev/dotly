@@ -39,3 +39,13 @@ docker run -e TERM -e COLORTERM -w /root -it --rm ubuntu sh -uec '
   su -c zsh'
 ```
 </details>
+
+## 😬 Important notes
+<details>
+    <summary>During the installation</summary>
+    ```
+    where are going to be located your dotfiles?
+    1. press Enter if you want default location (~/.dotfiles)
+    2. if you enter a custom location, the path should include the name of your dotfiles folder (ex. ~/Documents/workspace/<folder_name>), you don't need to create it manually, if you do that, you'll get a .back folder of your empty folder
+    ```
+</details>
