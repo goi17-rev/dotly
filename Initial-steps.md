@@ -18,12 +18,12 @@ You can safely install additional software and make any changes to the file syst
 deleted.
 
 > Using Alpine:
-```bash
-docker run -e TERM -e COLORTERM -e LC_ALL=C.UTF-8 -w /root -it --rm alpine sh -uec '
-  apk add curl sudo bash zsh git g++ python3
-  bash -c "$(curl -fsSL https://raw.githubusercontent.com/CodelyTV/dotly/HEAD/installer)"
-  zsh'
-```
+    ```bash
+    docker run -e TERM -e COLORTERM -e LC_ALL=C.UTF-8 -w /root -it --rm alpine sh -uec '
+        apk add curl sudo bash zsh git g++ python3
+        bash -c "$(curl -fsSL https://raw.githubusercontent.com/CodelyTV/dotly/HEAD/installer)"
+        zsh'
+    ```
 
 <details>
 <summary>Or using Ubuntu:</summary>
