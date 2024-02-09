@@ -1,12 +1,12 @@
-## 🚀 Installation
+# 🚀 Installation
 
-Using wget:
+### Using wget:
 
 ```bash
 bash <(wget -qO- https://raw.githubusercontent.com/CodelyTV/dotly/HEAD/installer)
 ```
 
-Or using curl:
+### Or using curl:
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/CodelyTV/dotly/HEAD/installer)
@@ -17,16 +17,13 @@ bash <(curl -s https://raw.githubusercontent.com/CodelyTV/dotly/HEAD/installer)
 You can safely install additional software and make any changes to the file system. Once you exit zsh the image is
 deleted.
 
-<details>
-<summary>Using Alpine:</summary>
-
+> Using Alpine:
 ```bash
 docker run -e TERM -e COLORTERM -e LC_ALL=C.UTF-8 -w /root -it --rm alpine sh -uec '
   apk add curl sudo bash zsh git g++ python3
   bash -c "$(curl -fsSL https://raw.githubusercontent.com/CodelyTV/dotly/HEAD/installer)"
   zsh'
 ```
-</details>
 
 <details>
 <summary>Or using Ubuntu:</summary>
@@ -43,9 +40,7 @@ docker run -e TERM -e COLORTERM -w /root -it --rm ubuntu sh -uec '
 ## 😬 Important notes
 <details>
     <summary>During the installation</summary>
-    ```
-    where are going to be located your dotfiles?
+    **where are going to be located your dotfiles?**
     1. press Enter if you want default location (~/.dotfiles)
     2. if you enter a custom location, the path should include the name of your dotfiles folder (ex. ~/Documents/workspace/<folder_name>), you don't need to create it manually, if you do that, you'll get a .back folder of your empty folder
-    ```
 </details>
