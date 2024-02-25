@@ -26,3 +26,5 @@
           shell/
           symlinks/
       ```
+      this does not mean that you can not modify this defaults, you can create/erase/rename everything. Just remember that you need to 
+      update your symlinks in case you need it.
