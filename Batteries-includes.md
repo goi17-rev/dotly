@@ -1,4 +1,4 @@
-- ##dot command
+##-dot command
     - Running `dot` will display all available global scripts
         - Personal scripts should be located in `<DOTFILES_PATH>/scripts`
         - Opinionated scripts are located `<DOTFILES_PATH>/modules/dotly/scripts`
