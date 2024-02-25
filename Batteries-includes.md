@@ -1,6 +1,6 @@
 - dot command
     - Running `dot` will display all available global scripts
-        - Personal scripts should be located in `**DOTFILES_PATH**/scripts`
+        - Personal scripts should be located in **`DOTFILES_PATH`**`/scripts`
         - Opinionated scripts are located `**DOTFILES_PATH/modules/dotly/scripts`
     - Most useful dot scripts
         - symlinks apply: Applies all your new/updated symlinks
