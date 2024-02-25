@@ -7,11 +7,11 @@
         - mac defaults: With this script you can import/export all your current Mac settings. After you run the import script, you'll need 
                         to restart your machine.
         - Press `<Ctrl-c>` once/twice to quit `dot`
-- ##Updating dotly
+- ## Updating dotly
    - git submodule update --init --recursive modules/dotly
-- ##Shortcuts
+- ## Shortcuts
    - If you press `<Ctrl-r>`, you'll get a custom reverse-search UI
-- ##Opinionated dotfiles template
+- ## Opinionated dotfiles template
     - By default dotly came with a default template ready to use
       ```
       dotfiles/
