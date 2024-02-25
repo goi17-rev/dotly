@@ -4,4 +4,4 @@ Welcome to the dotly wiki!
 
 [I'm user of Dotly](wiki/installing-using-your-existing-dotfiles)
 
-[Learn more about Dotly](wiki/batteries-include)
+[Learn more about Dotly](wiki/batteries-includes)
