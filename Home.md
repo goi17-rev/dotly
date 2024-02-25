@@ -1,5 +1,5 @@
 Welcome to the dotly wiki!
 
-[First time using Dotly](/initial-steps)
+[First time using Dotly](wiki/initial-steps)
 
-I'm user of Dotly
+[I'm user of Dotly](wiki/)
