@@ -23,5 +23,4 @@ bash <(curl -s https://raw.githubusercontent.com/CodelyTV/dotly/HEAD/restorer)
 empty folder**
 - **Selecting authentication method**
 if you are going to clone your repo using the **Other git alternative**, before this, you need to create an ssh key and it to your 
-github account. For more information check this [docs](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding- 
-a-new-ssh-key-to-your-github-account)
+github account. For more information check this [docs](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
