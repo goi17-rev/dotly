@@ -1,6 +1,6 @@
 # 🚀 Installation
 
-## 🏠 Production installation
+## 📋 Restore options
 
 ### Using wget:
 
