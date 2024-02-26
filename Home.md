@@ -1,5 +1,5 @@
-# Welcome to the dotly wiki!
 <div align="center">
+  <h1>Welcome to the dotly wiki!</h1>
   <a href="https://codely.tv">
     <img src="https://user-images.githubusercontent.com/1331435/141520189-90349bbd-3e0f-4200-8b76-f4297be11898.png" />
   </a>
