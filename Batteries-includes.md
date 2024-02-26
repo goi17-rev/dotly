@@ -20,7 +20,7 @@
 - ## Shortcuts
    - If you press `<Ctrl-r>`, you'll get a custom reverse-search UI
    ```bash
-   >
+   > __
      1520/1520 +S ───────────────────────────────────────────────────
    >  1542  dot                                                      │
       1541  la modules/dotly/dotfiles_template
@@ -45,3 +45,9 @@
       ```
       this does not mean that you can not modify this defaults, you can create/erase/rename everything. Just remember that you need to 
       update your symlinks in case you need it.
+
+## 📽️ Feature showcase (Spanish)
+
+For an in-depth look at the features offered by dotly, you can take a look at [this video](https://www.youtube.com/watch?v=kCBvPb8qAAE):
+
+[![Watch the video](https://img.youtube.com/vi/kCBvPb8qAAE/maxresdefault.jpg)](https://youtu.be/kCBvPb8qAAE)
