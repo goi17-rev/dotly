@@ -1,6 +1,11 @@
+img[src*='#center'] {
+    display: block;
+    margin: auto;
+}
+
 # Welcome to the dotly wiki!
 
-![Dotly logo](https://user-images.githubusercontent.com/1331435/141520189-90349bbd-3e0f-4200-8b76-f4297be11898.png){ width="800" height="600" style="display: block; margin: 0 auto" }
+![Dotly logo](https://user-images.githubusercontent.com/1331435/141520189-90349bbd-3e0f-4200-8b76-f4297be11898.png#center)
 
 ## ⚡️ Simple and fast dotfiles framework ⚡️
 
