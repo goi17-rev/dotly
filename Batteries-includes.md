@@ -19,6 +19,16 @@
    - git submodule update --init --recursive modules/dotly
 - ## Shortcuts
    - If you press `<Ctrl-r>`, you'll get a custom reverse-search UI
+   ```bash
+   >
+     1520/1520 +S ───────────────────────────────────────────────────
+   >  1542  dot                                                      │
+      1541  la modules/dotly/dotfiles_template
+      1540  git submodule update --init --recursive modules/dotly
+      1539  dotly self-update --help
+      1538  dotly self-update
+      1537  dotly
+   ```
 - ## Opinionated dotfiles template
     - By default dotly came with a default template ready to use
       ```bash
