@@ -1,9 +1,9 @@
-<style>
+<styles>
 img[src*='#center'] {
     display: block;
     margin: auto;
 }
-</style>
+</styles>
 
 # Welcome to the dotly wiki!
 
