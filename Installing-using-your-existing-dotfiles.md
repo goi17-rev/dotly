@@ -2,17 +2,27 @@
 
 ## 📋 Restore options
 
-### Using wget:
+### With wget:
 
 ```bash
 bash <(wget -qO- https://raw.githubusercontent.com/CodelyTV/dotly/HEAD/restorer)
 ```
 
-### Or using curl:
+### With curl:
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/CodelyTV/dotly/HEAD/restorer)
 ```
+
+## Manually
+
+* Install git
+* Clone your dotfiles repository `git clone [your repository of dotfiles] $WHERE_YOU_WANT_TO_PLACE_THEM`
+* Go to your dotfiles folder `cd $WHERE_YOU_PLACED_THEM`
+* Install git submodules `git submodule update --init --recursive modules/dotly`
+* Install your dotfiles `DOTFILES_PATH="$WHERE_YOU_PLACED_THEM" DOTLY_PATH="$DOTFILES_PATH/modules/dotly" "$DOTLY_PATH/bin/dot" self install`
+* Restart your terminal
+* Import your packages `dot package import`
 
 ## 😬 Important notes
 ### During the installation
