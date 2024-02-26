@@ -21,18 +21,17 @@
    - If you press `<Ctrl-r>`, you'll get a custom reverse-search UI
 - ## Opinionated dotfiles template
     - By default dotly came with a default template ready to use
-      ```
-      dotfiles/
-          bin/
-          doc/
-          editors/
-          git/
-          langs/
-          os/
-          restoration_scripts/
-          scripts/
-          shell/
-          symlinks/
+      ```bash
+      ├── 📁 bin                 # External binaries/symlinks. This folder has preference in your $PATH
+      ├── 📁 doc                 # Documentation of your dotfiles
+      ├── 📁 editors             # Settings of your editors (vscode, IDEA, …)
+      ├── 📁 git                 # git config
+      ├── 📁 langs               # Config for programming languages/libraries
+      ├── 📁 os                  # Specific config of your Operative System or apps
+      ├── 📁 restoration_scripts # This will be execute when you restore your dotfiles in another computer/installation
+      ├── 📁 scripts             # Your custom scripts
+      ├── 📁 shell               # Bash/Zsh/Fish?… configuration files
+      └── 📁 symlinks            # The config of your symlinks
       ```
       this does not mean that you can not modify this defaults, you can create/erase/rename everything. Just remember that you need to 
       update your symlinks in case you need it.
