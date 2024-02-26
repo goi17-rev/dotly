@@ -3,11 +3,8 @@
   <a href="https://codely.tv">
     <img src="https://user-images.githubusercontent.com/1331435/141520189-90349bbd-3e0f-4200-8b76-f4297be11898.png" />
   </a>
+  <h2>⚡️ Simple and fast dotfiles framework ⚡️</h2>
 </div>
-
-[![Dotly logo](https://user-images.githubusercontent.com/1331435/141520189-90349bbd-3e0f-4200-8b76-f4297be11898.png)](https://codely.tv)
-
-## ⚡️ Simple and fast dotfiles framework ⚡️
 
 [First time using Dotly](wiki/initial-steps)
 
