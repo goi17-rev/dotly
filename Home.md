@@ -1,15 +1,9 @@
-<styles>
-img[src*='#center'] {
-    display: block;
-    margin: auto;
-}
-</styles>
-
 # Welcome to the dotly wiki!
 
-![Dotly logo](https://user-images.githubusercontent.com/1331435/141520189-90349bbd-3e0f-4200-8b76-f4297be11898.png#center)
-
+<div align="center">
+[![Dotly logo](https://user-images.githubusercontent.com/1331435/141520189-90349bbd-3e0f-4200-8b76-f4297be11898.png)](https://codely.tv)
 ## ⚡️ Simple and fast dotfiles framework ⚡️
+</div>
 
 [First time using Dotly](wiki/initial-steps)
 
