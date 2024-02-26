@@ -6,4 +6,4 @@ Welcome to the dotly wiki!
 
 [Learn more about Dotly](wiki/batteries-includes)
 
-Having issues? take a look to the [Common issues](wiki/common-issues)
+Having issues? take a look to the [Common issues & solutions](wiki/common-issues)
