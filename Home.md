@@ -1,4 +1,9 @@
 # Welcome to the dotly wiki!
+<div align="center">
+  <a href="https://codely.tv">
+    <img src="https://user-images.githubusercontent.com/1331435/141520189-90349bbd-3e0f-4200-8b76-f4297be11898.png" />
+  </a>
+</div>
 
 [![Dotly logo](https://user-images.githubusercontent.com/1331435/141520189-90349bbd-3e0f-4200-8b76-f4297be11898.png)](https://codely.tv)
 
